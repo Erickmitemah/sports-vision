@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+
+# Model artifacts (not pushed to GitHub)
+models/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
