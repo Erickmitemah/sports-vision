@@ -1,9 +1,6 @@
 # Python virtual environment
 venv/
 
-# Model artifacts (not pushed to GitHub)
-models/
-
 # Python cache files
 __pycache__/
 *.py[cod]
